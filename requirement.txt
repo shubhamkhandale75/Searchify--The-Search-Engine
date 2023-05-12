@@ -1,0 +1,6 @@
+mysql
+google-search-results
+googlesearch-python
+gingerit
+nltk
+flask
