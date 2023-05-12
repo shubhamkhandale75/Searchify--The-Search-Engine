@@ -38,7 +38,7 @@ Web Hosting Using Ngrok
 ```sh
 
 To get api key login to "https://dashboard.ngrok.com/get-started/your-authtoken"
-and run below command
+and run below command after step 2 from below steps.
 
 ngrok config add-authtoken <api key>
 
